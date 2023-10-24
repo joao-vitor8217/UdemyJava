@@ -1,0 +1,17 @@
+public class conversaocemf {
+    public static void main (String[] args) {
+    //(32 °F − 32) × 5/9 = 0 °C
+    double c = 37;
+    final double umoito = 1.8;
+    final double trintadois = 32.0;
+    
+    double conversao = c * umoito + trintadois;
+      System.out.println("São: " + conversao);
+      
+      c = 40;
+      conversao = c * umoito + trintadois;
+      
+      System.out.println("São: " + conversao);
+    }
+    
+}
