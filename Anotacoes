@@ -1,0 +1,44 @@
+O BASICO:
+
+Package Exemplo: Usa o pacote
+Public Class: Abre a classe
+Public static voi main(String[] args): Abre o tipo do codigo
+String: Texto(OBS S MAIUSCULO)
+Int: Numeros inteiros
+Double: Numeros Quebrados
+Final: Declara como constante
+System.out.println("Exemplo"): Imprime Texto
+Var: Criar a variavel
+
+TIPOS PRIMITIVOS EM JAVA:
+
+TIPOS DE NUMEROS INTEIROS:
+
+byte: Pode conter um inteiro entre -128 e 127.
+short: Pode conter um valor entre -32.768 e 32.767.
+int: Suporta valores de -2.147.483.648 a 2.147.483.647.
+long: Pode representar um número inteiro qualquer entre -9.223.372.036.854.775.808L e 9.223.372.036.854.775.807L.
+
+TIPOS NUMERICOS REAIS:
+
+Float: É usado para representar números de ponto flutuante com precisão simples.
+       Ele ocupa 32 bits na memoria e fornece cerca de 7 dígitos de precisão decimal.
+
+Double: Uma variável do tipo double armazena um de 18.446.744.073.709.551.616 (18 quintilhões...) possíveis valores.
+
+Tipo BOOLEANO:
+
+boolean estaDeFerais = false; //true Declara se é falso ou verdadeiro.
+
+TIPO CARACTERE:
+
+char status = 'a'; // ativo Usado para um digito.
+
+FUNCOES PONTO:
+
+String s = "Bom dia X"
+s = s.toUpperCase(); > Transforma tudo em maiusculo
+s = s.replace("X", "Senhora"); > Substitui por exemplo o x por senhora
+s = s.concat("!!!") > Concatena a !!! a string
+
+IMPORT:
