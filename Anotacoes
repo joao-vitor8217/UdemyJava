@@ -9,6 +9,7 @@ Double: Numeros Quebrados
 Final: Declara como constante
 System.out.println("Exemplo"): Imprime Texto
 Var: Criar a variavel
+/n : Quebra a linha
 
 TIPOS PRIMITIVOS EM JAVA:
 
@@ -41,4 +42,14 @@ s = s.toUpperCase(); > Transforma tudo em maiusculo
 s = s.replace("X", "Senhora"); > Substitui por exemplo o x por senhora
 s = s.concat("!!!") > Concatena a !!! a string
 
-IMPORT:
+String de formatacao:
+
+System.out.printf() =  Usa a string de formatacao
+%s = String                   |-> Numero de casas
+%d = Int                      | 
+%f = Double > se eu colocar %.2f o java coloca o ponto duas casas ante do fim( que pode significar centavos por exemplo)
+String.format() > Pode colocar uma frase por exemplo dentro de uma variavel
+
+
+
+
