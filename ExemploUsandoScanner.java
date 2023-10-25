@@ -16,6 +16,8 @@ public class Console {
 		System.out.println("Seu nome é: " + nome);
 		System.out.println("Seu sobrenome é: " + sobrenome);
 		System.out.println("Sua idade é de: " + idade + " anos");
+
+		entrada.close();
 		
 	}
 
