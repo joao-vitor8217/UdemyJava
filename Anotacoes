@@ -57,6 +57,7 @@ Scanner entrada = new Scanner(System.in); > Cria um Scanner com metodo de teclad
 		System.out.print("Digite seu nome: "); > Aqui a entrada
 .nextLine() > Armaneza String
 nextInt() > Armazena Inteiro
+entrada.close(); > Fecha do Scanner
 
 
 
