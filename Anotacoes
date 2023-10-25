@@ -50,6 +50,14 @@ System.out.printf() =  Usa a string de formatacao
 %f = Double > se eu colocar %.2f o java coloca o ponto duas casas ante do fim( que pode significar centavos por exemplo)
 String.format() > Pode colocar uma frase por exemplo dentro de uma variavel
 
+SCANNER: 
+
+java.util.Scanner; > Importa o scanner
+Scanner entrada = new Scanner(System.in); > Cria um Scanner com metodo de teclado > SEMPRE TEM QUE TER ISSO
+		System.out.print("Digite seu nome: "); > Aqui a entrada
+.nextLine() > Armaneza String
+nextInt() > Armazena Inteiro
+
 
 
 
