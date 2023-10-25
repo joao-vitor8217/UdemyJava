@@ -59,6 +59,9 @@ Scanner entrada = new Scanner(System.in); > Cria um Scanner com metodo de teclad
 nextInt() > Armazena Inteiro
 entrada.close(); > Fecha do Scanner
 
+Obs= Antes tem que criar uma variavel nova pra isso  Use Integer. parseInt() para converter uma string em um número inteiro
+Use Double = exemplo = Double.parseDouble(exemplo) pra converter string pra double
+
 
 
 
