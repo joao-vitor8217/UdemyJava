@@ -89,7 +89,22 @@ Relacionais:
 <= Menor ou igual
 != = Diferente
 
-Atribuicao:
+Unario: 
+
+++ = Acrementa 1
+-- = Decrementa 1
+
+Ternario:
+                                          |> Caso      |> Caso contrario
+Exemplo > double media = 7.6;             |            |
+          string resultado = media >= 7.0 ? "Aprovado" : "Recuperacao"?
+          Explicacao: Caso a nota for maior ou igual a 7.0 vai ser aprovado caso contario reprovado
+
+Igualdade com Strings
+
+
+
+
 
 
 
