@@ -73,6 +73,27 @@ Aritméticos:
 % = Modulo > Resto de Divisao
 Classe Math > Math.pow(a, Qual potencia) Eleva a potencia
 
+Logicos:
+
+And E = && > Todas tem que ser V pra ser V
+Or Ou = || > Se tiver um V vai dar V
+Xor (Ou Exclusivo) = ^ > Um tem que ser diferendo do outro
+Not Negacao = ! > Inverte F para V e V para F
+
+Relacionais:
+
+== = COmparacao
+> = Maior
+>= = Maior ou igual
+< = Menor
+<= Menor ou igual
+!= = Diferente
+
+Atribuicao:
+
+
+
+
 
 
 
