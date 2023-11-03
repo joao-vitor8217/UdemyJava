@@ -100,7 +100,20 @@ Exemplo > double media = 7.6;             |            |
           string resultado = media >= 7.0 ? "Aprovado" : "Recuperacao"?
           Explicacao: Caso a nota for maior ou igual a 7.0 vai ser aprovado caso contario reprovado
 
-Igualdade com Strings
+If > Se
+Else > Caso contrario
+If Else > Varias condicoes
+While > Esta instrução é usada quando não sabemos quantas vezes um 
+        determinado bloco de instruções precisa ser repetido. Com ele,
+        a execução das instruções vai continuar até que uma condição seja verdadeira
+
+For > Uma estrutura focada em um repeticao determinada
+for (int contador = 0; contador < 30; contador += 2)
+          |                  |              |
+        variavel         condicao         incremento
+
+do while
+
 
 
 
