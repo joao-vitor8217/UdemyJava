@@ -112,7 +112,16 @@ for (int contador = 0; contador < 30; contador += 2)
           |                  |              |
         variavel         condicao         incremento
 
-do while
+switch(exemplo) {
+} >  é uma estrutura de controle de fluxo que permite executar diferentes blocos de código com base em diferentes valores de entrada.
+case exemplo > Vai ser o caso e se for usa o break pra fechar o codigo
+
+continue > interrompe uma repeticao
+Por exemplo for (int i = 1; <=10; i++) {
+                if(i == 5) continue;
+Aqui ele so ignora o 5
+
+
 
 
 
