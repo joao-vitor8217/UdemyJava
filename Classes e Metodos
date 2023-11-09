@@ -5,4 +5,7 @@ Objetos tambem podem ser chamados de instancia
 
 Membros de uma classe > Atributos e comportamentos
 
+Static >O valor deixar de ser associado a instância e fica associado a classe
+
+
 
