@@ -9,5 +9,5 @@ Static > O valor deixar de ser associado a instância e fica associado a classe
 
 this > Pode ser usado para referencia o objeto atual > Normalmente usado para evitar conflito de nomes
 this() > Está chamando um construtor
-
+null > Nao esta alocado em nenhuma local de memoria
 
