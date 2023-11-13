@@ -5,7 +5,9 @@ Objetos tambem podem ser chamados de instancia
 
 Membros de uma classe > Atributos e comportamentos
 
-Static >O valor deixar de ser associado a instância e fica associado a classe
+Static > O valor deixar de ser associado a instância e fica associado a classe
 
+this > Pode ser usado para referencia o objeto atual > Normalmente usado para evitar conflito de nomes
+this() > Está chamando um construtor
 
 
