@@ -1,0 +1,4 @@
+.length > Le todos os dados dentro de um vetor
+foreach >for(double b: a) {  Tambem le o que tem dentro do ver so que de uma forma mais facil
+		System.out.println(b);
+
