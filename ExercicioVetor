@@ -1,0 +1,36 @@
+import java.util.Scanner;
+
+public class Main{
+    
+	public static void main(String[] args) {
+	
+	Scanner entrada = new Scanner(System.in);
+	
+	System.out.println("Digite quantas notas voce quer: ");
+	int QtdeNotas = entrada.nextInt();
+	
+	double notas[] = new double[QtdeNotas];
+	
+    
+    
+	for(int i = 0; i < notas.length; i++) {
+	
+	System.out.println("Digite a nota " + (i + 1) + "");
+	notas[i] = entrada.nextDouble();
+	
+ }    
+   double notatotal = 0;
+   for(double nota: notas) {
+       notatotal += nota;
+       
+       
+   }
+
+	 System.out.println("A média é: " + (notatotal / QtdeNotas));
+    
+
+	entrada.close();
+	
+	
+  }	
+}
