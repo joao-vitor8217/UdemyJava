@@ -1,0 +1,5 @@
+HashSet conjunto = new HashSet(); > Cria um Conjunto
+conjunto.add(exemplo); > Adiciona algum valor dentro dele(Pode ser inteiro, double, boleano, char e string)
+conjunto.remove(exemplo); > Remove algum valor dele
+conjunto.retainAll(outroConjunto); > Mostras interseção entre eles
+conjunto.clear(); > Limpa o conjunto
