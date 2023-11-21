@@ -3,3 +3,9 @@ conjunto.add(exemplo); > Adiciona algum valor dentro dele(Pode ser inteiro, doub
 conjunto.remove(exemplo); > Remove algum valor dele
 conjunto.retainAll(outroConjunto); > Mostras interseção entre eles
 conjunto.clear(); > Limpa o conjunto
+
+Criando agora
+
+Set <String> lista = new HashSet<String>(); > Aqui a gente especificou o que vai ter nessa lista, ou seja,
+                                              agora ela aceita apenas Strings.
+
