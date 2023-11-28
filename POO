@@ -1,0 +1,6 @@
+O que precisar de return no lugar de void tem que colocar o que deseja retornar, tipo uma String, double e etc.
+
+Os atributos Getters e Setters protejem o acesso ao atributo, ou seja, voce nao acessa diretamente o atributo, o que torna o codigo mais seguro
+
+Construtores nao precisam de void
+
